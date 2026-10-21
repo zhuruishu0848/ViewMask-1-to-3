@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+outputs/
+data/
+logs/
+*.log
+*.pt
+*.pth
+*.bin
+*.safetensors
+configs/paths.env
+.env
+
+.local/
+checkpoints/
