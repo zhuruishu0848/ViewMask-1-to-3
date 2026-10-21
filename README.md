@@ -67,4 +67,4 @@ ENV_FILE=configs/paths.env bash scripts/eval_gso.sh
 
 ## Acknowledgments
 
-We sincerely thank the authors and contributors of [LLaDA](https://github.com/ML-GSAI/LLaDA), [MAGVITv2](https://magvit.cs.cmu.edu/v2/), [Hugging Face Transformers](https://github.com/huggingface/transformers) for their excellent work. ViewMask-1-to-3 is built on top of these projects.
+We sincerely thank the authors and contributors of [LLaDA](https://github.com/ML-GSAI/LLaDA), [MAGVITv2-Show-o](https://github.com/showlab/Show-o) for their excellent work. ViewMask-1-to-3 is built on top of these projects.
