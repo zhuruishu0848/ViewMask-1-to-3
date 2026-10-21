@@ -67,4 +67,4 @@ ENV_FILE=configs/paths.env bash scripts/eval_gso.sh
 
 ## Acknowledgments
 
-This implementation builds on LLaDA, MAGVITv2, and Hugging Face Transformers and Diffusers. Upstream copyright and license notices are retained in the corresponding source files.
+We sincerely thank the authors and contributors of [LLaDA](https://github.com/ML-GSAI/LLaDA), [MAGVITv2](https://magvit.cs.cmu.edu/v2/), [Hugging Face Transformers](https://github.com/huggingface/transformers) for their excellent work. ViewMask-1-to-3 is built on top of these projects.
